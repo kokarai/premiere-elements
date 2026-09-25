@@ -1,0 +1,10 @@
+# Project-specific overrides
+*.jpeg binary
+package-lock.json linguist-generated
+
+*.woff2 binary
+*.gif binary
+build/* linguist-vendored
+*.html linguist-vendored
+
+**/*.go linguist-detectable
